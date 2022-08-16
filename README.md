@@ -7,12 +7,12 @@ Solution process:
 2-Feature Engineering
 3-Modelling
 4-Base model success rate:
-  # Base Model
-  # Accuracy: 0.7837
-  # Recall: 0.6333
-  # Precision: 0.4843
-  # F1: 0.5489
-  # Auc: 0.7282
+  * Base Model
+  * Accuracy: 0.7837
+  * Recall: 0.6333
+  * Precision: 0.4843
+  * F1: 0.5489
+  * Auc: 0.7282
 5-Hyperparameter Optimization
 6-Final Model
 7-Feature Importance
@@ -21,43 +21,43 @@ Solution process:
 
 All applied models and success rates are as follows:
 
-  ########## LR ##########
+    ******** LR ********
     Accuracy: 0.8009
     Auc: 0.8434
     Recall: 0.5415
     Precision: 0.6497
     F1: 0.5904
-    ########## KNN ##########
+    ******** KNN ********
     Accuracy: 0.7698
     Auc: 0.7802
     Recall: 0.5158
     Precision: 0.5747
     F1: 0.5432
-    ########## CART ##########
+    ******** CART ********
     Accuracy: 0.7363
     Auc: 0.6666
     Recall: 0.5142
     Precision: 0.5044
     F1: 0.5088
-    ########## RF ##########
+    ******** RF ********
     Accuracy: 0.7899
     Auc: 0.819
     Recall: 0.4858
     Precision: 0.6378
     F1: 0.5513
-    ########## SVM ##########
+    ******** SVM ********
     Accuracy: 0.7931
     Auc: 0.7827
     Recall: 0.4596
     Precision: 0.659
     F1: 0.5407
-    ########## XGB ##########
+    ******** XGB ********
     Accuracy: 0.7872
     Auc: 0.8238
     Recall: 0.5212
     Precision: 0.6185
     F1: 0.5652
-    ########## LightGBM ##########
+    ******** LightGBM ********
     Accuracy: 0.7954
     Auc: 0.8366
     Recall: 0.5217
@@ -67,6 +67,7 @@ All applied models and success rates are as follows:
     
     
 #Feature Importance ia as follows:
-![Figure_1](https://user-images.githubusercontent.com/87859856/184912892-011dd55d-9fe6-4f85-a4a0-60a30279f219.png)
-![Figure_2](https://user-images.githubusercontent.com/87859856/184912911-e3e9d508-8d91-4dd9-ae68-3c85bd79f30c.png)
-![Figure_3](https://user-images.githubusercontent.com/87859856/184912931-171b78a1-d182-4611-a1c9-89d92b02f5e2.png)
+<img src="https://user-images.githubusercontent.com/87859856/184912892-011dd55d-9fe6-4f85-a4a0-60a30279f219.png" alt="feed example" width="230"> 
+<img src="https://user-images.githubusercontent.com/87859856/184912911-e3e9d508-8d91-4dd9-ae68-3c85bd79f30c.png" alt="feed example" width="230"> 
+<img src="https://user-images.githubusercontent.com/87859856/184912931-171b78a1-d182-4611-a1c9-89d92b02f5e2.png" alt="feed example" width="230"> 
+
