@@ -3,9 +3,13 @@
 Problem: It is desired to develop a machine learning model that can predict customers who will leave the company. You are expected to perform the necessary data analysis and feature engineering steps before developing the model.
 
 Solution process:
+<br/>
 1-Exploratory Data Analysis
+<br/>
 2-Feature Engineering
+<br/>
 3-Modelling
+<br/>
 4-Base model success rate:
   * Base Model
   * Accuracy: 0.7837
@@ -13,10 +17,13 @@ Solution process:
   * Precision: 0.4843
   * F1: 0.5489
   * Auc: 0.7282
+  <br/>
 5-Hyperparameter Optimization
+<br/>
 6-Final Model
+<br/>
 7-Feature Importance
-
+<br/>
 
 
 All applied models and success rates are as follows:
@@ -67,7 +74,7 @@ All applied models and success rates are as follows:
     
     
 #Feature Importance ia as follows:
-<img src="https://user-images.githubusercontent.com/87859856/184912892-011dd55d-9fe6-4f85-a4a0-60a30279f219.png" alt="feed example" width="230"> 
-<img src="https://user-images.githubusercontent.com/87859856/184912911-e3e9d508-8d91-4dd9-ae68-3c85bd79f30c.png" alt="feed example" width="230"> 
-<img src="https://user-images.githubusercontent.com/87859856/184912931-171b78a1-d182-4611-a1c9-89d92b02f5e2.png" alt="feed example" width="230"> 
+<img src="https://user-images.githubusercontent.com/87859856/184912892-011dd55d-9fe6-4f85-a4a0-60a30279f219.png" alt="feed example" width="500"> 
+<img src="https://user-images.githubusercontent.com/87859856/184912911-e3e9d508-8d91-4dd9-ae68-3c85bd79f30c.png" alt="feed example" width="500"> 
+<img src="https://user-images.githubusercontent.com/87859856/184912931-171b78a1-d182-4611-a1c9-89d92b02f5e2.png" alt="feed example" width="500"> 
 
