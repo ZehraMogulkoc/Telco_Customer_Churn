@@ -17,7 +17,6 @@ Solution process:
   * Precision: 0.4843
   * F1: 0.5489
   * Auc: 0.7282
-  <br/>
 5-Hyperparameter Optimization
 <br/>
 6-Final Model
@@ -74,6 +73,7 @@ All applied models and success rates are as follows:
     
     
 #Feature Importance ia as follows:
+<br/>
 <img src="https://user-images.githubusercontent.com/87859856/184912892-011dd55d-9fe6-4f85-a4a0-60a30279f219.png" alt="feed example" width="500"> 
 <img src="https://user-images.githubusercontent.com/87859856/184912911-e3e9d508-8d91-4dd9-ae68-3c85bd79f30c.png" alt="feed example" width="500"> 
 <img src="https://user-images.githubusercontent.com/87859856/184912931-171b78a1-d182-4611-a1c9-89d92b02f5e2.png" alt="feed example" width="500"> 
